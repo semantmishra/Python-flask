@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/windowsshortkey",
+    "prod_uri":"mysql://root:@localhost/windowsshortkey",
+    "fb_url":"https://facebook.com/",
+    "tw_url":"https://twitter.com/",
+    "gh_url": "https://github.com/semantmishra",
+    "blog_name": "Windows ShortcutKey",
+    "tag_line": "A Blog liked by Students",
+    "site-admin-name":"Semant.Mishra",
+    "gmail-user":"semant.mishra1997@gmail.com",
+    "gmail-password":"hemant1994",
+    "about-text":"Hello I am Seman.mishra",
+    "no-of-post":5,
+    "login_image":"bootstrap-solid.svg",
+    "admin":"admin@gmail.com",
+    "password":"semant000",
+    "secret_key":"this is a key"
+  }
+}
